@@ -21,7 +21,7 @@ repository               : "ywc-bot/ywc-bot.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "ywc_photo.png"
   name             : "Yuan Weicheng"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
