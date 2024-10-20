@@ -24,9 +24,9 @@ author:
   avatar           : "ywc_photo.png"
   name             : "袁玮呈 Weicheng Yuan"
   pronouns         : # example: "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
+  bio              : "Short biography for the left-hand sidebar"
   location         : "Shanghai"
-  employer         : "University of Chinese Academy of Sciences"
+  employer         : "UCAS"
   uri              : # URL
   email            : "yuanweicheng9@gmail.com" 
 
