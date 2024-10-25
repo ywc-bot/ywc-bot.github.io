@@ -13,5 +13,7 @@ Research Areas🧐:
 ======
 * **sEEG Neural Signal Decoding and Encoding**       
 Specializing in the interpretation of brain activity, I work with cutting-edge sEEG techniques to decode and encode neural signals, aiming to unravel the complexities of brain communication and function.
+
+      
 * **EEG Studies on Sleep, Moyamoya Disease, and Cognitive Impairment**        
 My research focuses on exploring the connections between EEG patterns and key health conditions such as sleep disorders, Moyamoya disease, and cognitive impairment, seeking to contribute to improved diagnostic tools and therapeutic approaches in neuroscience.
